@@ -1,0 +1,21 @@
+{
+    "name": "kreitje/l4-schemad-migrations",
+    "description": "Generate a schema file for Laravel migration with a MySQL database.",
+    "keywords": ["laravel", "schema"],
+    "authors": [
+        {
+            "name": "Jeff Kreitner",
+            "email": "kreitje@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.1.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Kreitje\\L4SchemadMigrations": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
