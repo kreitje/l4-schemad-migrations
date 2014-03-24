@@ -2,6 +2,7 @@
     "name": "kreitje/l4-schemad-migrations",
     "description": "Generate a schema file for Laravel migration with a MySQL database.",
     "keywords": ["laravel", "schema"],
+    "license": "MIT",
     "authors": [
         {
             "name": "Jeff Kreitner",
